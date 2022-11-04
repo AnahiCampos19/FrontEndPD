@@ -1,0 +1,17 @@
+body{
+    background-color:#FAE5D3 ;
+    color: #AF7AC5 ;
+    text-align: center;
+    font-size:larger ;
+}
+.titulos{
+    text-decoration:underline;
+    text-decoration-color:#F1C40F;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+.izquierda{
+    text-align: left;
+}
